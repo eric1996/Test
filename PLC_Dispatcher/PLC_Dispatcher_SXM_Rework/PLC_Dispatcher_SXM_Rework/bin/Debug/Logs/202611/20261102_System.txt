@@ -1,0 +1,29 @@
+﻿2026-11-02 20:42:03.475 | ========== APP Open ==========
+2026-11-02 20:42:03.485 | APP Start | loaded:3 PLC config(s): [PLC1]  (10.38.124.33:5000), [PLC2]  (10.38.124.34:5000), [PLC3]  (10.38.124.35:5000)
+2026-11-02 20:42:25.819 | User clicked START Button
+2026-11-02 20:42:47.050 | PLC [3] INSTALL (10.38.124.35:5000) DISCONNECTED
+2026-11-02 20:42:47.050 | PLC [1] UNSCREW (10.38.124.33:5000) DISCONNECTED
+2026-11-02 20:42:47.050 | PLC [2] REMOVAL (10.38.124.34:5000) DISCONNECTED
+2026-11-02 21:35:39.117 | User clicked STOP to stop the system
+2026-11-02 21:35:42.455 | ========== APP Close ==========
+2026-11-02 21:35:42.455 | APP closing, system auto-executed STOP
+2026-11-02 21:35:42.564 | All PLC connections closed, APP exiting
+2026-11-02 23:02:45.070 | ========== APP Open ==========
+2026-11-02 23:02:45.071 | APP Start | loaded:3 PLC config(s): [PLC1]  (10.38.124.33:5000), [PLC2]  (10.38.124.34:5000), [PLC3]  (10.38.124.35:5000)
+2026-11-02 23:04:08.536 | User clicked START Button
+2026-11-02 23:04:14.710 | User clicked STOP to stop the system
+2026-11-02 23:04:17.662 | ========== APP Close ==========
+2026-11-02 23:04:17.662 | APP closing, system auto-executed STOP
+2026-11-02 23:04:17.771 | All PLC connections closed, APP exiting
+2026-11-02 23:34:30.987 | ========== APP Open ==========
+2026-11-02 23:34:30.988 | APP Start | loaded:3 PLC config(s): [PLC1]  (10.38.124.33:5000), [PLC2]  (10.38.124.34:5000), [PLC3]  (10.38.124.35:5000)
+2026-11-02 23:37:13.105 | User clicked START Button
+2026-11-02 23:37:16.233 | User clicked STOP to stop the system
+2026-11-02 23:37:18.961 | ========== APP Close ==========
+2026-11-02 23:37:18.961 | APP closing, system auto-executed STOP
+2026-11-02 23:37:19.074 | All PLC connections closed, APP exiting
+2026-11-02 23:39:48.452 | ========== APP Open ==========
+2026-11-02 23:39:48.452 | APP Start | loaded:3 PLC config(s): [PLC1]  (10.38.124.33:5000), [PLC2]  (10.38.124.34:5000), [PLC3]  (10.38.124.35:5000)
+2026-11-02 23:39:58.432 | ========== APP Close ==========
+2026-11-02 23:39:58.432 | APP closing, system auto-executed STOP
+2026-11-02 23:39:58.435 | All PLC connections closed, APP exiting

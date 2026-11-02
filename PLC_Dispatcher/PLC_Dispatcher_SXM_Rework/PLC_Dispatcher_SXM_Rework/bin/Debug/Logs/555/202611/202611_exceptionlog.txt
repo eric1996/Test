@@ -1,0 +1,12 @@
+﻿2026-11-02 10:37:30.923 | [SocketClientClass.Receive [PLC1 10.38.124.33:5000]] SocketException: 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 | Stack:    於 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   於 PLC_Dispatcher_SXM_Rework.SocketClientClass.Receive() 於 C:\Users\11011180\Desktop\新增資料夾\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\Class\SocketClientClass.cs: 行 168
+2026-11-02 10:37:30.935 | [SocketClientClass.Receive [PLC2 10.38.124.34:5000]] SocketException: 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 | Stack:    於 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   於 PLC_Dispatcher_SXM_Rework.SocketClientClass.Receive() 於 C:\Users\11011180\Desktop\新增資料夾\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\Class\SocketClientClass.cs: 行 168
+2026-11-02 10:37:30.957 | [SocketClientClass.Receive [PLC3 10.38.124.35:5000]] SocketException: 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 | Stack:    於 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   於 PLC_Dispatcher_SXM_Rework.SocketClientClass.Receive() 於 C:\Users\11011180\Desktop\新增資料夾\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\Class\SocketClientClass.cs: 行 168
+2026-11-02 10:54:25.447 | [SocketClientClass.Receive [PLC3 10.38.124.35:5000]] SocketException: 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 | Stack:    於 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   於 PLC_Dispatcher_SXM_Rework.SocketClientClass.Receive() 於 C:\Users\11011180\Desktop\新增資料夾\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\Class\SocketClientClass.cs: 行 168
+2026-11-02 10:54:25.611 | [SocketClientClass.Receive [PLC2 10.38.124.34:5000]] SocketException: 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 | Stack:    於 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   於 PLC_Dispatcher_SXM_Rework.SocketClientClass.Receive() 於 C:\Users\11011180\Desktop\新增資料夾\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\Class\SocketClientClass.cs: 行 168
+2026-11-02 10:54:26.013 | [SocketClientClass.Receive [PLC1 10.38.124.33:5000]] SocketException: 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 | Stack:    於 System.Net.Sockets.Socket.Receive(Byte[] buffer)
+   於 PLC_Dispatcher_SXM_Rework.SocketClientClass.Receive() 於 C:\Users\11011180\Desktop\新增資料夾\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\Class\SocketClientClass.cs: 行 168

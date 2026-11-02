@@ -1,0 +1,37 @@
+C:\Users\11011180\Desktop\PLC_FX5U_SLMP\PLC_FX5U_SLMP\PLC_FX5U_SLMP\obj\Debug\PLC_FX5U_SLMP.Properties.Resources.resources
+C:\Users\11011180\Desktop\PLC_FX5U_SLMP\PLC_FX5U_SLMP\PLC_FX5U_SLMP\obj\Debug\PLC_FX5U_SLMP.csproj.GenerateResource.cache
+C:\Users\11011180\Desktop\PLC_FX5U_SLMP\PLC_FX5U_SLMP\PLC_FX5U_SLMP\bin\Debug\PLC_FX5U_SLMP.exe
+C:\Users\11011180\Desktop\PLC_FX5U_SLMP\PLC_FX5U_SLMP\PLC_FX5U_SLMP\bin\Debug\PLC_FX5U_SLMP.pdb
+C:\Users\11011180\Desktop\PLC_FX5U_SLMP\PLC_FX5U_SLMP\PLC_FX5U_SLMP\obj\Debug\PLC_FX5U_SLMP.exe
+C:\Users\11011180\Desktop\PLC_FX5U_SLMP\PLC_FX5U_SLMP\PLC_FX5U_SLMP\obj\Debug\PLC_FX5U_SLMP.pdb
+C:\Users\11011180\Desktop\PLC_FX5U_SLMP\PLC_FX5U_SLMP\PLC_FX5U_SLMP\bin\Debug\appsetting.json
+C:\Users\11011180\Desktop\PLC_FX5U_SLMP\PLC_FX5U_SLMP\PLC_FX5U_SLMP\obj\Debug\PLC_FX5U_SLMP.csproj.AssemblyReference.cache
+C:\Users\11011180\Desktop\PLC_FX5U_SLMP\PLC_FX5U_SLMP\PLC_FX5U_SLMP\obj\Debug\PLC_FX5U_SLMP.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\group-main\PLC_FX5U_SLMP\PLC_FX5U_SLMP\bin\Debug\appsetting.json
+C:\Users\Eric\Desktop\group-main\PLC_FX5U_SLMP\PLC_FX5U_SLMP\bin\Debug\PLC_FX5U_SLMP.exe
+C:\Users\Eric\Desktop\group-main\PLC_FX5U_SLMP\PLC_FX5U_SLMP\bin\Debug\PLC_FX5U_SLMP.pdb
+C:\Users\Eric\Desktop\group-main\PLC_FX5U_SLMP\PLC_FX5U_SLMP\obj\Debug\PLC_FX5U_SLMP.csproj.AssemblyReference.cache
+C:\Users\Eric\Desktop\group-main\PLC_FX5U_SLMP\PLC_FX5U_SLMP\obj\Debug\PLC_FX5U_SLMP.Properties.Resources.resources
+C:\Users\Eric\Desktop\group-main\PLC_FX5U_SLMP\PLC_FX5U_SLMP\obj\Debug\PLC_FX5U_SLMP.csproj.GenerateResource.cache
+C:\Users\Eric\Desktop\group-main\PLC_FX5U_SLMP\PLC_FX5U_SLMP\obj\Debug\PLC_FX5U_SLMP.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\group-main\PLC_FX5U_SLMP\PLC_FX5U_SLMP\obj\Debug\PLC_FX5U_SLMP.exe
+C:\Users\Eric\Desktop\group-main\PLC_FX5U_SLMP\PLC_FX5U_SLMP\obj\Debug\PLC_FX5U_SLMP.pdb
+C:\Users\Eric\Desktop\group-main (1)\group-main\PLC_FX5U_SLMP\PLC_FX5U_SLMP\bin\Debug\appsetting.json
+C:\Users\Eric\Desktop\group-main (1)\group-main\PLC_FX5U_SLMP\PLC_FX5U_SLMP\bin\Debug\PLC_FX5U_SLMP.exe
+C:\Users\Eric\Desktop\group-main (1)\group-main\PLC_FX5U_SLMP\PLC_FX5U_SLMP\bin\Debug\PLC_FX5U_SLMP.pdb
+C:\Users\Eric\Desktop\group-main (1)\group-main\PLC_FX5U_SLMP\PLC_FX5U_SLMP\obj\Debug\PLC_FX5U_SLMP.csproj.AssemblyReference.cache
+C:\Users\Eric\Desktop\group-main (1)\group-main\PLC_FX5U_SLMP\PLC_FX5U_SLMP\obj\Debug\PLC_FX5U_SLMP.Properties.Resources.resources
+C:\Users\Eric\Desktop\group-main (1)\group-main\PLC_FX5U_SLMP\PLC_FX5U_SLMP\obj\Debug\PLC_FX5U_SLMP.csproj.GenerateResource.cache
+C:\Users\Eric\Desktop\group-main (1)\group-main\PLC_FX5U_SLMP\PLC_FX5U_SLMP\obj\Debug\PLC_FX5U_SLMP.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\group-main (1)\group-main\PLC_FX5U_SLMP\PLC_FX5U_SLMP\obj\Debug\PLC_FX5U_SLMP.exe
+C:\Users\Eric\Desktop\group-main (1)\group-main\PLC_FX5U_SLMP\PLC_FX5U_SLMP\obj\Debug\PLC_FX5U_SLMP.pdb
+C:\Users\Eric\Desktop\group-main (1)\group-main\PLC_FX5U_SLMP\PLC_FX5U_SLMP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eric\Desktop\group-main (1)\group-main\PLC_FX5U_SLMP\PLC_FX5U_SLMP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eric\Desktop\group-main (1)\group-main\PLC_FX5U_SLMP\PLC_FX5U_SLMP\obj\Debug\PLC_FX5U_SLMP.csproj.CopyComplete
+C:\Users\Eric\Desktop\group-main (1)\group-main\PLC_FX5U_SLMP\PLC_FX5U_SLMP\bin\Debug\PLC_FX5U_SLMP.exe.config
+C:\Users\Eric\Desktop\group-main (1)\group-main\PLC_FX5U_SLMP\PLC_FX5U_SLMP\obj\Debug\PLC_Dispatcher_SXM_Rework.Form1.resources
+C:\Users\11011180\Desktop\PLC_FX5U_SLMP\PLC_FX5U_SLMP\PLC_FX5U_SLMP\bin\Debug\PLC_FX5U_SLMP.exe.config
+C:\Users\11011180\Desktop\PLC_FX5U_SLMP\PLC_FX5U_SLMP\PLC_FX5U_SLMP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\11011180\Desktop\PLC_FX5U_SLMP\PLC_FX5U_SLMP\PLC_FX5U_SLMP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\11011180\Desktop\PLC_FX5U_SLMP\PLC_FX5U_SLMP\PLC_FX5U_SLMP\obj\Debug\PLC_Dispatcher_SXM_Rework.Form1.resources
+C:\Users\11011180\Desktop\PLC_FX5U_SLMP\PLC_FX5U_SLMP\PLC_FX5U_SLMP\obj\Debug\PLC_FX5U_SLMP.csproj.CopyComplete

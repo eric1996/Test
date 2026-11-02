@@ -1,0 +1,114 @@
+{
+	"webServiceTimeoutSeconds": 60,// WS 呼叫逾時秒數：超過沒回應就當 E (exception) 處理
+	"logInWebService": "https://sme31-dev-api.k8s-dev.k8s.wistron.com/ws/User/Login",
+	"spWebService": "https://sme31-dev-api.k8s-dev.k8s.wistron.com/ws/ro/PLC/ProcessPLCResult",
+	"userID": "APITXPLC",
+	"password": "3edCVfr4",
+	"repairLine": "SMSTX_REWORK_01",
+	"projectCode": "NAOMI_CA",
+	"plant": "F032",
+	"rhub": "SMSTX",
+	"logRetentionDays": 30, 	  // Log 檔保留天數：每天午夜 00:00:05 自動清除過期 log；0 = 不清除
+	"messIdRetentionDays": 7, 	// SN→GUID 對應保留天數：每小時檢查一次，超過就清除；0 = 不清除
+	"plcsReadySignalTimer": 20000, 	// Ready 輪詢間隔 (ms)：還沒 Ready 的 PLC 每隔這段時間再問一次
+	"maxLogLines": 60, 	// 每個 log 分頁最多顯示筆數：超過就從最上面刪掉舊紀錄；0 以下用預設 60
+	"plcs": [
+	{
+		"id": 1,
+		"station": "UNSCREW",
+		"ip": "10.38.124.33",
+		"port": 5000,
+		"readySignal": {"address": "M7700", "value": 1}, //觸發後續動作條件，address值等於value才讀plcData
+		"plcData": [
+			{"infoName": "WU_SN", "address": "D2500", "length": 40},
+		    {"infoName": "GPU0_SN", "address": "D2600", "length": 20},
+		    {"infoName": "GPU1_SN", "address": "D2620", "length": 20},
+		    {"infoName": "GPU2_SN", "address": "D2640", "length": 20},
+		    {"infoName": "GPU3_SN", "address": "D2660", "length": 20},
+		    {"infoName": "GPU4_SN", "address": "D2680", "length": 20},
+		    {"infoName": "GPU5_SN", "address": "D2700", "length": 20},
+		    {"infoName": "GPU6_SN", "address": "D2720", "length": 20},
+		    {"infoName": "GPU7_SN", "address": "D2740", "length": 20}
+		],
+		"actions": {
+			"success": [
+				{"actionType": "WRITE", "address": "M7700", "value": 0, "condition": ""},
+				{"actionType": "WRITE", "address": "M7750", "value": 1, "condition": ""},
+				{"actionType": "WRITE", "address": "M7760", "value": 1, "condition": ""}
+			],
+			"fail": [
+				{ "actionType": "WRITE", "address": "M7700", "value": 0, "condition": ""},
+				{ "actionType": "WRITE", "address": "M7751", "value": 1, "condition": "WU_SXM_NG"},
+                { "actionType": "WRITE", "address": "M7761", "value": 1, "condition": "WU_SXM_NG"},
+				{ "actionType": "WRITE", "address": "M7751", "value": 1, "condition": "WU_NG"},
+				{ "actionType": "WRITE", "address": "M7761", "value": 1, "condition": "SXM_NG"}
+			],
+			"exception": [
+				{"actionType": "WRITE", "address": "M7799", "value": 1, "condition": ""}
+			]
+		}
+	},
+	{
+		"id": 2,
+		"station": "REMOVAL",
+		"ip": "10.38.124.34",
+		"port": 5000,
+		"plcData": [
+			{"infoName": "WU_SN", "address": "D2500", "length": 40},
+			{"infoName": "GPU0_PN", "address": "D2600", "length": 20},
+			{"infoName": "GPU1_PN", "address": "D2620", "length": 20},
+			{"infoName": "GPU2_PN", "address": "D2640", "length": 20},
+			{"infoName": "GPU3_PN", "address": "D2660", "length": 20},
+			{"infoName": "GPU4_PN", "address": "D2680", "length": 20},
+			{"infoName": "GPU5_PN", "address": "D2700", "length": 20},
+			{"infoName": "GPU6_PN", "address": "D2720", "length": 20},
+			{"infoName": "GPU7_PN", "address": "D2740", "length": 20}
+		],
+		"readySignal": {"address": "M7700", "value": 1},
+		"actions": {
+			"success": [
+                {"actionType": "WRITE", "address": "M7700", "value": 0, "condition": ""},
+				{"actionType": "WRITE", "address": "M7770", "value": 1, "condition": ""}
+			],
+			"fail": [
+                {"actionType": "WRITE", "address": "M7700", "value": 0, "condition": ""},
+				{"actionType": "WRITE", "address": "M7771", "value": 1, "condition": ""}
+			],
+			"exception": [
+				{"actionType": "WRITE", "address": "M7799", "value": 1, "condition": ""}
+			]
+		}
+	},
+	{
+		"id": 3,
+		"station": "INSTALL",
+		"ip": "10.38.124.35",
+		"port": 5000,
+		"plcData": [
+			{"infoName": "WU_SN", "address": "D2500", "length": 40},
+			{"infoName": "GPU0_SN", "address": "D2600", "length": 20},
+			{"infoName": "GPU1_SN", "address": "D2620", "length": 20},
+			{"infoName": "GPU2_SN", "address": "D2640", "length": 20},
+			{"infoName": "GPU3_SN", "address": "D2660", "length": 20},
+			{"infoName": "GPU4_SN", "address": "D2680", "length": 20},
+			{"infoName": "GPU5_SN", "address": "D2700", "length": 20},
+			{"infoName": "GPU6_SN", "address": "D2720", "length": 20},
+			{"infoName": "GPU7_SN", "address": "D2740", "length": 20}
+		],
+		"readySignal": {"address": "M7700", "value": 1},
+		"actions": {
+			"success": [
+                {"actionType": "WRITE", "address": "M7700", "value": 0, "condition": ""},
+				{"actionType": "WRITE", "address": "M7760", "value": 1, "condition": ""}
+			],
+			"fail": [
+                {"actionType": "WRITE", "address": "M7700", "value": 0, "condition": ""},
+				{"actionType": "WRITE", "address": "M7761", "value": 1, "condition": ""}
+			],
+			"exception": [
+				{"actionType": "WRITE", "address": "M7799", "value": 1, "condition": ""}
+			]
+		}
+	}
+	]
+}

@@ -1,0 +1,9 @@
+﻿2026-11-02 20:42:47.048 | [SocketClientClass.Connect [PLC1 10.38.124.33:5000]] SocketException: 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 10.38.124.33:5000 | Stack:    於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 PLC_Dispatcher_SXM_Rework.SocketClientClass.Connect() 於 C:\Users\Eric\Desktop\新增資料夾 (3)\group-eric1996-patch-1\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\Class\SocketClientClass.cs: 行 93
+2026-11-02 20:42:47.049 | [SocketClientClass.Connect [PLC2 10.38.124.34:5000]] SocketException: 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 10.38.124.34:5000 | Stack:    於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 PLC_Dispatcher_SXM_Rework.SocketClientClass.Connect() 於 C:\Users\Eric\Desktop\新增資料夾 (3)\group-eric1996-patch-1\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\Class\SocketClientClass.cs: 行 93
+2026-11-02 20:42:47.049 | [SocketClientClass.Connect [PLC3 10.38.124.35:5000]] SocketException: 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無法回應。 10.38.124.35:5000 | Stack:    於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   於 PLC_Dispatcher_SXM_Rework.SocketClientClass.Connect() 於 C:\Users\Eric\Desktop\新增資料夾 (3)\group-eric1996-patch-1\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\Class\SocketClientClass.cs: 行 93

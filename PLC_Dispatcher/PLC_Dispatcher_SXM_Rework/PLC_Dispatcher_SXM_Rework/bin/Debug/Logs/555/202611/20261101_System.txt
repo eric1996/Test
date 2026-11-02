@@ -1,0 +1,25 @@
+﻿2026-11-01 08:46:37.872 | ========== APP Open ==========
+2026-11-01 08:46:37.873 | APP Start | loaded:3 PLC config(s): [PLC1]  (10.38.124.33:5000), [PLC2]  (10.38.124.34:5000), [PLC3]  (10.38.124.35:5000)
+2026-11-01 08:47:17.618 | ========== APP Close ==========
+2026-11-01 08:47:17.618 | APP closing, system auto-executed STOP
+2026-11-01 08:47:17.622 | All PLC connections closed, APP exiting
+2026-11-01 16:59:14.492 | ========== APP Open ==========
+2026-11-01 16:59:14.494 | APP Start | loaded:3 PLC config(s): [PLC1]  (10.38.124.33:5000), [PLC2]  (10.38.124.34:5000), [PLC3]  (10.38.124.35:5000)
+2026-11-01 16:59:22.905 | User clicked START Button
+2026-11-01 16:59:32.007 | ========== APP Close ==========
+2026-11-01 16:59:32.007 | APP closing, system auto-executed STOP
+2026-11-01 16:59:32.116 | All PLC connections closed, APP exiting
+2026-11-01 22:04:03.498 | ========== APP Open ==========
+2026-11-01 22:04:03.498 | APP Start | loaded:3 PLC config(s): [PLC1]  (10.38.124.33:5000), [PLC2]  (10.38.124.34:5000), [PLC3]  (10.38.124.35:5000)
+2026-11-01 22:06:14.636 | ========== APP Open ==========
+2026-11-01 22:06:14.637 | APP Start | loaded:3 PLC config(s): [PLC1]  (10.38.124.33:5000), [PLC2]  (10.38.124.34:5000), [PLC3]  (10.38.124.35:5000)
+2026-11-01 22:06:20.848 | User clicked START Button
+2026-11-01 22:06:38.604 | ========== APP Close ==========
+2026-11-01 22:06:38.605 | APP closing, system auto-executed STOP
+2026-11-01 22:06:38.701 | All PLC connections closed, APP exiting
+2026-11-01 23:24:20.463 | ========== APP Open ==========
+2026-11-01 23:24:20.464 | APP Start | loaded:3 PLC config(s): [PLC1]  (10.38.124.33:5000), [PLC2]  (10.38.124.34:5000), [PLC3]  (10.38.124.35:5000)
+2026-11-01 23:47:46.073 | ========== APP Open ==========
+2026-11-01 23:47:46.074 | APP Start | loaded:3 PLC config(s): [PLC1]  (10.38.124.33:5000), [PLC2]  (10.38.124.34:5000), [PLC3]  (10.38.124.35:5000)
+2026-11-01 23:48:03.619 | User clicked START Button
+2026-11-01 23:48:03.619 | User clicked START Button

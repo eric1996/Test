@@ -1,0 +1,84 @@
+﻿2026-10-29 22:10:57.724 | ========== APP Open ==========
+2026-10-29 22:10:57.725 | APP started, loaded 3 PLC config(s): [1] UNSCREW (10.38.124.33:5000), [2] REMOVAL (10.38.124.34:5000), [3] INSTALL (10.38.124.35:5000)
+2026-10-29 22:16:39.865 | ========== APP Open ==========
+2026-10-29 22:16:39.866 | APP started, loaded 3 PLC config(s): [1] UNSCREW (10.38.124.33:5000), [2] REMOVAL (10.38.124.34:5000), [3] INSTALL (10.38.124.35:5000)
+2026-10-29 22:19:20.986 | User clicked START to launch the system
+2026-10-29 22:19:42.259 | PLC [3] INSTALL (10.38.124.35:5000) DISCONNECTED
+2026-10-29 22:19:42.259 | PLC [2] REMOVAL (10.38.124.34:5000) DISCONNECTED
+2026-10-29 22:19:42.259 | PLC [1] UNSCREW (10.38.124.33:5000) DISCONNECTED
+2026-10-29 22:19:55.879 | User clicked STOP to stop the system
+2026-10-29 22:19:57.543 | ========== APP Close ==========
+2026-10-29 22:19:57.543 | APP closing, system auto-executed STOP
+2026-10-29 22:19:57.638 | All PLC connections closed, APP exiting
+2026-10-29 22:28:15.677 | ========== APP Open ==========
+2026-10-29 22:28:15.678 | APP started, loaded 3 PLC config(s): [1] UNSCREW (10.38.124.33:5000), [2] REMOVAL (10.38.124.34:5000), [3] INSTALL (10.38.124.35:5000)
+2026-10-29 22:28:25.286 | User clicked START to launch the system
+2026-10-29 22:28:29.436 | User clicked STOP to stop the system
+2026-10-29 22:28:31.108 | ========== APP Close ==========
+2026-10-29 22:28:31.108 | APP closing, system auto-executed STOP
+2026-10-29 22:28:31.242 | All PLC connections closed, APP exiting
+2026-10-29 22:39:02.003 | ========== APP Open ==========
+2026-10-29 22:39:02.003 | APP started, loaded 3 PLC config(s): [1] UNSCREW (10.38.124.33:5000), [2] REMOVAL (10.38.124.34:5000), [3] INSTALL (10.38.124.35:5000)
+2026-10-29 22:39:08.568 | User clicked START to launch the system
+2026-10-29 22:39:18.495 | ========== APP Close ==========
+2026-10-29 22:39:18.495 | APP closing, system auto-executed STOP
+2026-10-29 22:39:18.603 | All PLC connections closed, APP exiting
+2026-10-29 22:42:17.073 | ========== APP Open ==========
+2026-10-29 22:42:17.074 | APP started, loaded 3 PLC config(s): [1] UNSCREW (10.38.124.33:5000), [2] REMOVAL (10.38.124.34:5000), [3] INSTALL (10.38.124.35:5000)
+2026-10-29 22:42:21.008 | User clicked START to launch the system
+2026-10-29 22:42:24.526 | User clicked STOP to stop the system
+2026-10-29 22:42:27.454 | ========== APP Close ==========
+2026-10-29 22:42:27.454 | APP closing, system auto-executed STOP
+2026-10-29 22:42:27.550 | All PLC connections closed, APP exiting
+2026-10-29 22:50:28.433 | ========== APP Open ==========
+2026-10-29 22:50:28.434 | APP started, loaded 3 PLC config(s): [1] UNSCREW (10.38.124.33:5000), [2] REMOVAL (10.38.124.34:5000), [3] INSTALL (10.38.124.35:5000)
+2026-10-29 22:50:30.949 | User clicked START to launch the system
+2026-10-29 22:50:35.171 | ========== APP Close ==========
+2026-10-29 22:50:35.171 | APP closing, system auto-executed STOP
+2026-10-29 22:50:35.286 | All PLC connections closed, APP exiting
+2026-10-29 22:56:43.188 | ========== APP Open ==========
+2026-10-29 22:56:43.189 | APP started, loaded 3 PLC config(s): [1] UNSCREW (10.38.124.33:5000), [2] REMOVAL (10.38.124.34:5000), [3] INSTALL (10.38.124.35:5000)
+2026-10-29 22:56:44.667 | User clicked START to launch the system
+2026-10-29 22:56:46.431 | ========== APP Close ==========
+2026-10-29 22:56:46.431 | APP closing, system auto-executed STOP
+2026-10-29 22:56:46.550 | All PLC connections closed, APP exiting
+2026-10-29 23:02:48.457 | ========== APP Open ==========
+2026-10-29 23:02:48.458 | APP started, loaded 3 PLC config(s): [1] UNSCREW (10.38.124.33:5000), [2] REMOVAL (10.38.124.34:5000), [3] INSTALL (10.38.124.35:5000)
+2026-10-29 23:02:51.333 | ========== APP Close ==========
+2026-10-29 23:02:51.333 | APP closing, system auto-executed STOP
+2026-10-29 23:02:51.335 | All PLC connections closed, APP exiting
+2026-10-29 23:04:16.663 | ========== APP Open ==========
+2026-10-29 23:04:16.664 | APP started, loaded 3 PLC config(s): [1] UNSCREW (10.38.124.33:5000), [2] REMOVAL (10.38.124.34:5000), [3] INSTALL (10.38.124.35:5000)
+2026-10-29 23:05:47.679 | User clicked START to launch the system
+2026-10-29 23:05:49.420 | User clicked STOP to stop the system
+2026-10-29 23:05:51.412 | ========== APP Close ==========
+2026-10-29 23:05:51.412 | APP closing, system auto-executed STOP
+2026-10-29 23:05:51.521 | All PLC connections closed, APP exiting
+2026-10-29 23:05:59.045 | ========== APP Open ==========
+2026-10-29 23:05:59.046 | APP started, loaded 3 PLC config(s): [1] UNSCREW (10.38.124.33:5000), [2] REMOVAL (10.38.124.34:5000), [3] INSTALL (10.38.124.35:5000)
+2026-10-29 23:06:03.931 | ========== APP Close ==========
+2026-10-29 23:06:03.931 | APP closing, system auto-executed STOP
+2026-10-29 23:06:03.933 | All PLC connections closed, APP exiting
+2026-10-29 23:09:36.377 | ========== APP Open ==========
+2026-10-29 23:09:36.378 | APP started, loaded 3 PLC config(s): [1] UNSCREW (10.38.124.33:5000), [2] REMOVAL (10.38.124.34:5000), [3] INSTALL (10.38.124.35:5000)
+2026-10-29 23:09:38.869 | User clicked START to launch the system
+2026-10-29 23:09:39.698 | User clicked STOP to stop the system
+2026-10-29 23:09:41.058 | ========== APP Close ==========
+2026-10-29 23:09:41.058 | APP closing, system auto-executed STOP
+2026-10-29 23:09:41.171 | All PLC connections closed, APP exiting
+2026-10-29 23:24:08.195 | ========== APP Open ==========
+2026-10-29 23:24:08.196 | APP Start | loaded:3 PLC config(s): [PLC1]  (10.38.124.33:5000), [PLC2]  (10.38.124.34:5000), [PLC3]  (10.38.124.35:5000)
+2026-10-29 23:34:32.984 | ========== APP Close ==========
+2026-10-29 23:34:32.984 | APP closing, system auto-executed STOP
+2026-10-29 23:34:32.988 | All PLC connections closed, APP exiting
+2026-10-29 23:35:18.630 | ========== APP Open ==========
+2026-10-29 23:35:18.630 | APP Start | loaded:3 PLC config(s): [PLC1]  (10.38.124.33:5000), [PLC2]  (10.38.124.34:5000), [PLC3]  (10.38.124.35:5000)
+2026-10-29 23:35:20.578 | User clicked START Button
+2026-10-29 23:35:22.391 | User clicked STOP to stop the system
+2026-10-29 23:35:23.583 | ========== APP Close ==========
+2026-10-29 23:35:23.583 | APP closing, system auto-executed STOP
+2026-10-29 23:35:23.768 | All PLC connections closed, APP exiting
+2026-10-29 23:42:25.703 | ========== APP Open ==========
+2026-10-29 23:42:25.704 | APP Start | loaded:3 PLC config(s): [PLC1]  (10.38.124.33:5000), [PLC2]  (10.38.124.34:5000), [PLC3]  (10.38.124.35:5000)
+2026-10-29 23:42:35.151 | User clicked START Button
+2026-10-29 23:42:36.388 | User clicked STOP to stop the system

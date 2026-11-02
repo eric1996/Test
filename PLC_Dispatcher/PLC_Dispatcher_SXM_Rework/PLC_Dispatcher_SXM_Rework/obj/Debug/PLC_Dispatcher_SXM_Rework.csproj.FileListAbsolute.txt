@@ -1,0 +1,84 @@
+C:\Users\11011180\Desktop\PLC_FX5U_SLMP\PLC_FX5U_SLMP\PLC_FX5U_SLMP\bin\Debug\appsetting.json
+C:\Users\11011180\Desktop\PLC_FX5U_SLMP\PLC_FX5U_SLMP\PLC_FX5U_SLMP\bin\Debug\PLC_FX5U_SLMP.exe.config
+C:\Users\11011180\Desktop\PLC_FX5U_SLMP\PLC_FX5U_SLMP\PLC_FX5U_SLMP\bin\Debug\PLC_FX5U_SLMP.exe
+C:\Users\11011180\Desktop\PLC_FX5U_SLMP\PLC_FX5U_SLMP\PLC_FX5U_SLMP\bin\Debug\PLC_FX5U_SLMP.pdb
+C:\Users\11011180\Desktop\PLC_FX5U_SLMP\PLC_FX5U_SLMP\PLC_FX5U_SLMP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\11011180\Desktop\PLC_FX5U_SLMP\PLC_FX5U_SLMP\PLC_FX5U_SLMP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\11011180\Desktop\PLC_FX5U_SLMP\PLC_FX5U_SLMP\PLC_FX5U_SLMP\obj\Debug\PLC_Dispatcher_SXM_Rework.csproj.AssemblyReference.cache
+C:\Users\11011180\Desktop\PLC_FX5U_SLMP\PLC_FX5U_SLMP\PLC_FX5U_SLMP\obj\Debug\PLC_Dispatcher_SXM_Rework.Form1.resources
+C:\Users\11011180\Desktop\PLC_FX5U_SLMP\PLC_FX5U_SLMP\PLC_FX5U_SLMP\obj\Debug\PLC_FX5U_SLMP.Properties.Resources.resources
+C:\Users\11011180\Desktop\PLC_FX5U_SLMP\PLC_FX5U_SLMP\PLC_FX5U_SLMP\obj\Debug\PLC_Dispatcher_SXM_Rework.csproj.GenerateResource.cache
+C:\Users\11011180\Desktop\PLC_FX5U_SLMP\PLC_FX5U_SLMP\PLC_FX5U_SLMP\obj\Debug\PLC_Dispatcher_SXM_Rework.csproj.CoreCompileInputs.cache
+C:\Users\11011180\Desktop\PLC_FX5U_SLMP\PLC_FX5U_SLMP\PLC_FX5U_SLMP\obj\Debug\PLC_Dispatcher_SXM_Rework.csproj.CopyComplete
+C:\Users\11011180\Desktop\PLC_FX5U_SLMP\PLC_FX5U_SLMP\PLC_FX5U_SLMP\obj\Debug\PLC_FX5U_SLMP.exe
+C:\Users\11011180\Desktop\PLC_FX5U_SLMP\PLC_FX5U_SLMP\PLC_FX5U_SLMP\obj\Debug\PLC_FX5U_SLMP.pdb
+C:\Users\11011180\Desktop\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\bin\Debug\appsetting.json
+C:\Users\11011180\Desktop\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\bin\Debug\PLC_FX5U_SLMP.exe.config
+C:\Users\11011180\Desktop\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\bin\Debug\PLC_FX5U_SLMP.exe
+C:\Users\11011180\Desktop\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\bin\Debug\PLC_FX5U_SLMP.pdb
+C:\Users\11011180\Desktop\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\11011180\Desktop\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\11011180\Desktop\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_Dispatcher_SXM_Rework.csproj.AssemblyReference.cache
+C:\Users\11011180\Desktop\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_Dispatcher_SXM_Rework.Form1.resources
+C:\Users\11011180\Desktop\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_FX5U_SLMP.Properties.Resources.resources
+C:\Users\11011180\Desktop\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_Dispatcher_SXM_Rework.csproj.GenerateResource.cache
+C:\Users\11011180\Desktop\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_Dispatcher_SXM_Rework.csproj.CoreCompileInputs.cache
+C:\Users\11011180\Desktop\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_Dispatcher_SXM_Rework.csproj.CopyComplete
+C:\Users\11011180\Desktop\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_FX5U_SLMP.exe
+C:\Users\11011180\Desktop\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_FX5U_SLMP.pdb
+C:\Users\Eric\Desktop\新增資料夾\group-main\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\bin\Debug\appsetting.json
+C:\Users\Eric\Desktop\新增資料夾\group-main\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\bin\Debug\PLC_FX5U_SLMP.exe.config
+C:\Users\Eric\Desktop\新增資料夾\group-main\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\bin\Debug\PLC_FX5U_SLMP.exe
+C:\Users\Eric\Desktop\新增資料夾\group-main\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\bin\Debug\PLC_FX5U_SLMP.pdb
+C:\Users\Eric\Desktop\新增資料夾\group-main\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eric\Desktop\新增資料夾\group-main\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eric\Desktop\新增資料夾\group-main\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_Dispatcher_SXM_Rework.csproj.AssemblyReference.cache
+C:\Users\Eric\Desktop\新增資料夾\group-main\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_Dispatcher_SXM_Rework.Form1.resources
+C:\Users\Eric\Desktop\新增資料夾\group-main\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_FX5U_SLMP.Properties.Resources.resources
+C:\Users\Eric\Desktop\新增資料夾\group-main\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_Dispatcher_SXM_Rework.csproj.GenerateResource.cache
+C:\Users\Eric\Desktop\新增資料夾\group-main\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_Dispatcher_SXM_Rework.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\新增資料夾\group-main\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_Dispatcher_SXM_Rework.csproj.CopyComplete
+C:\Users\Eric\Desktop\新增資料夾\group-main\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_FX5U_SLMP.exe
+C:\Users\Eric\Desktop\新增資料夾\group-main\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_FX5U_SLMP.pdb
+C:\Users\11011180\Desktop\新增資料夾\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\bin\Debug\appsetting.json
+C:\Users\11011180\Desktop\新增資料夾\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\bin\Debug\PLC_FX5U_SLMP.exe.config
+C:\Users\11011180\Desktop\新增資料夾\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\bin\Debug\PLC_FX5U_SLMP.exe
+C:\Users\11011180\Desktop\新增資料夾\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\bin\Debug\PLC_FX5U_SLMP.pdb
+C:\Users\11011180\Desktop\新增資料夾\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\11011180\Desktop\新增資料夾\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\11011180\Desktop\新增資料夾\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_Dispatcher_SXM_Rework.csproj.AssemblyReference.cache
+C:\Users\11011180\Desktop\新增資料夾\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_Dispatcher_SXM_Rework.Form1.resources
+C:\Users\11011180\Desktop\新增資料夾\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_FX5U_SLMP.Properties.Resources.resources
+C:\Users\11011180\Desktop\新增資料夾\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_Dispatcher_SXM_Rework.csproj.GenerateResource.cache
+C:\Users\11011180\Desktop\新增資料夾\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_Dispatcher_SXM_Rework.csproj.CoreCompileInputs.cache
+C:\Users\11011180\Desktop\新增資料夾\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_Dispatcher_SXM_Rework.csproj.CopyComplete
+C:\Users\11011180\Desktop\新增資料夾\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_FX5U_SLMP.exe
+C:\Users\11011180\Desktop\新增資料夾\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_FX5U_SLMP.pdb
+C:\Users\Eric\Desktop\新增資料夾 (3)\group-eric1996-patch-1\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\bin\Debug\appsetting.json
+C:\Users\Eric\Desktop\新增資料夾 (3)\group-eric1996-patch-1\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\bin\Debug\PLC_FX5U_SLMP.exe.config
+C:\Users\Eric\Desktop\新增資料夾 (3)\group-eric1996-patch-1\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\bin\Debug\PLC_FX5U_SLMP.exe
+C:\Users\Eric\Desktop\新增資料夾 (3)\group-eric1996-patch-1\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\bin\Debug\PLC_FX5U_SLMP.pdb
+C:\Users\Eric\Desktop\新增資料夾 (3)\group-eric1996-patch-1\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eric\Desktop\新增資料夾 (3)\group-eric1996-patch-1\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eric\Desktop\新增資料夾 (3)\group-eric1996-patch-1\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_Dispatcher_SXM_Rework.csproj.AssemblyReference.cache
+C:\Users\Eric\Desktop\新增資料夾 (3)\group-eric1996-patch-1\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_Dispatcher_SXM_Rework.Form1.resources
+C:\Users\Eric\Desktop\新增資料夾 (3)\group-eric1996-patch-1\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_FX5U_SLMP.Properties.Resources.resources
+C:\Users\Eric\Desktop\新增資料夾 (3)\group-eric1996-patch-1\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_Dispatcher_SXM_Rework.csproj.GenerateResource.cache
+C:\Users\Eric\Desktop\新增資料夾 (3)\group-eric1996-patch-1\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_Dispatcher_SXM_Rework.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\新增資料夾 (3)\group-eric1996-patch-1\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_Dispatcher_SXM_Rework.csproj.CopyComplete
+C:\Users\Eric\Desktop\新增資料夾 (3)\group-eric1996-patch-1\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_FX5U_SLMP.exe
+C:\Users\Eric\Desktop\新增資料夾 (3)\group-eric1996-patch-1\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_FX5U_SLMP.pdb
+C:\Users\Eric\Desktop\新增資料夾 (3)\group-eric1996-patch-1\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\bin\Debug\appsetting.json
+C:\Users\Eric\Desktop\新增資料夾 (3)\group-eric1996-patch-1\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\bin\Debug\PLC_FX5U_SLMP.exe.config
+C:\Users\Eric\Desktop\新增資料夾 (3)\group-eric1996-patch-1\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\bin\Debug\PLC_FX5U_SLMP.exe
+C:\Users\Eric\Desktop\新增資料夾 (3)\group-eric1996-patch-1\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\bin\Debug\PLC_FX5U_SLMP.pdb
+C:\Users\Eric\Desktop\新增資料夾 (3)\group-eric1996-patch-1\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eric\Desktop\新增資料夾 (3)\group-eric1996-patch-1\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eric\Desktop\新增資料夾 (3)\group-eric1996-patch-1\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_Dispatcher_SXM_Rework.csproj.AssemblyReference.cache
+C:\Users\Eric\Desktop\新增資料夾 (3)\group-eric1996-patch-1\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_Dispatcher_SXM_Rework.Form1.resources
+C:\Users\Eric\Desktop\新增資料夾 (3)\group-eric1996-patch-1\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_FX5U_SLMP.Properties.Resources.resources
+C:\Users\Eric\Desktop\新增資料夾 (3)\group-eric1996-patch-1\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_Dispatcher_SXM_Rework.csproj.GenerateResource.cache
+C:\Users\Eric\Desktop\新增資料夾 (3)\group-eric1996-patch-1\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_Dispatcher_SXM_Rework.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\新增資料夾 (3)\group-eric1996-patch-1\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_Dispatcher_SXM_Rework.csproj.CopyComplete
+C:\Users\Eric\Desktop\新增資料夾 (3)\group-eric1996-patch-1\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_FX5U_SLMP.exe
+C:\Users\Eric\Desktop\新增資料夾 (3)\group-eric1996-patch-1\PLC_Dispatcher\PLC_Dispatcher_SXM_Rework\PLC_Dispatcher_SXM_Rework\obj\Debug\PLC_FX5U_SLMP.pdb

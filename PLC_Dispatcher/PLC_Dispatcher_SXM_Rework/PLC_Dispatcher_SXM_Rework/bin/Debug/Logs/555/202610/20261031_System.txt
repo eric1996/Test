@@ -1,0 +1,5 @@
+﻿2026-10-31 22:28:13.565 | ========== APP Open ==========
+2026-10-31 22:28:13.565 | APP Start | loaded:3 PLC config(s): [PLC1]  (10.38.124.33:5000), [PLC2]  (10.38.124.34:5000), [PLC3]  (10.38.124.35:5000)
+2026-10-31 22:28:16.036 | ========== APP Close ==========
+2026-10-31 22:28:16.036 | APP closing, system auto-executed STOP
+2026-10-31 22:28:16.040 | All PLC connections closed, APP exiting
